@@ -60,7 +60,7 @@
     "qs": "^6.11.2",
     "remove": "^0.1.5",
     "staticrypt": "^3.3.1",
-    "uglify-es": "^3.3.9",
+    "uglify-js": "^3.17.4",
     "url-pattern": "^1.0.3"
   },
   "main": ".eleventy.js"
